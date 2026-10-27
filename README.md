@@ -11,3 +11,5 @@ O objetivo é registrar todas as partes importantes para eu aprender e prevenir 
 -Como trabalhar em grupo.
 -Estudo da geração de git e github e suas diferenças.
 -Como utilizar o github.
+
+https://github.com/x02736345-ai/diario-de-bordo/tree/50e7e187eeeb5e54f81da18eeef1fb98e801dd2e/aulas
